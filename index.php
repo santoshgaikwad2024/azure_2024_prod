@@ -5,6 +5,6 @@ print("my Santosh Website");
 
 print("<br>");
 
-print("version 1")
+print("version 2")
 
 ?>
